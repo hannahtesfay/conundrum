@@ -1,7 +1,7 @@
 # Conundrum
 An interactive platform for posting and solving riddles. Created with React, MongoDB, Express and Node.js.
 
-[conundrum.netlify.app](https://conundrum.netlify.app)
+**[conundrum.netlify.app](https://conundrum.netlify.app)**
 
 ![Screenshot of Habitory](https://i.imgur.com/0qOc6R3.png)
 
